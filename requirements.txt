@@ -7,3 +7,4 @@ packaging
 ipywidgets
 pillow
 gdown
+jupyter_server
